@@ -213,7 +213,7 @@ const Header: React.FC<HeaderProps> = ({ timelineIdx, onSetTlIdx }) => {
         ))}
       </SocialContainer>
       <MailContainer ref={mailContainerEl}>
-        <Mail href="mailto:idembele70@gmail.com">idembele70@gmail.com</Mail>
+        <Mail href="mailto:lightfury.gpsh@gmail.com">lightfury.gpsh@gmail.com</Mail>
       </MailContainer>
     </>
   );

@@ -60,11 +60,11 @@ const Hero: React.FC<HeaderProps> = ({ timelineIdx, onSetTlIdx }) => {
       <Wrapper>
         <ImageContainer ref={imageContainerEl}>
           <Image
-            src={`${process.env.PUBLIC_URL}/assets/ma-photo.png`}
+            src={`${process.env.PUBLIC_URL}/assets/me_june.jpg`}
             alt="hero"
           />
         </ImageContainer>
-        <Title ref={titleEl}>Ibrahim Dembele</Title>
+        <Title ref={titleEl}>JAYA LEE</Title>
         <SubTitle ref={subTitleEl}>Web Developer</SubTitle>
       </Wrapper>
     </Container>
