@@ -108,7 +108,7 @@ const Header: React.FC<HeaderProps> = ({ timelineIdx, onSetTlIdx }) => {
     () => [
       {
         icon: faGithub,
-        link: "https://github.com/idembele70/",
+        link: "https://github.com/pelloKraken628/",
       },
       {
         icon: faInstagram,

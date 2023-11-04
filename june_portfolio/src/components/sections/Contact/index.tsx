@@ -46,13 +46,11 @@ const Contact = () => {
         </SectionHeader>
         <Main ref={mainEl}>
           <Title>
-            As a junior full-stack developer experienced in React and Node.js,
-            I'm interested in all opportunities, including those for developers
-            specialized in only React or Node.js. If you have any inquiries or
-            questions, please don't hesitate to reach out to me. I will provide
-            a comprehensive and prompt response.
+            As a senior full-stack developer, I'm interested in all potential opportunities. 
+            If you have any inquiries or questions, please don't hesitate to reach out to me. 
+            I will provide a comprehensive and prompt response.
           </Title>
-          <ContactBtn href="mailto:idembele70@gmail.com">
+          <ContactBtn href="mailto:lightfury.gpsh@gmail.com">
             Send message
           </ContactBtn>
         </Main>
