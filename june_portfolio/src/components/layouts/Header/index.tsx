@@ -1,7 +1,9 @@
 import {
+  faDiscord,
   faGithub,
   faInstagram,
   faLinkedin,
+  faSkype,
   faTwitter,
 } from "@fortawesome/free-brands-svg-icons";
 import { IconDefinition, faArrowUp } from "@fortawesome/free-solid-svg-icons";
@@ -111,8 +113,8 @@ const Header: React.FC<HeaderProps> = ({ timelineIdx, onSetTlIdx }) => {
         link: "https://github.com/pelloKraken628/",
       },
       {
-        icon: faInstagram,
-        link: "https://www.instagram.com/playmaker1710/",
+        icon: faSkype,
+        link: "https://join.skype.com/invite/tdgkXwebUeUW",
       },
       {
         icon: faTwitter,
@@ -177,7 +179,7 @@ const Header: React.FC<HeaderProps> = ({ timelineIdx, onSetTlIdx }) => {
       >
         <Wrapper ref={wrapperEl}>
           <LogoContainer onClick={handleClickLogo} to="/">
-            <Logo>IKD</Logo>
+            <Logo>JL</Logo>
           </LogoContainer>
           <HamburgerContainer onClick={handleToggleMenu}>
             <Hamburger isMenuOpen={toggleMenu} ariaLabel="Main Menu" />

@@ -52,12 +52,7 @@ const Project = () => {
         github: "https://github.com/idembele70/tiny-moviez-design",
         link: "https://idembele70.github.io/tiny-moviez-design",
         img: "https://raw.githubusercontent.com/idembele70/tiny-moviez-design/master/public/assets/design/app.png",
-      } /* 
-      {
-        github: "https://github.com/idembele70/",
-        link: "https://idembele70.github.io/",
-        img: "",
-      }, */,
+      },
     ],
     []
   );

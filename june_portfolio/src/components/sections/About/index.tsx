@@ -91,7 +91,7 @@ const About = () => {
               I started working on <Strong>projects at home</Strong> to improve and hone
               my skills, specifically focusing on{" "}
               <Strong>React in TypeScript</Strong>, <Strong>Angular</Strong>, 
-              <Strong>Vue JS</Strong> for frontend and {" "}<Strong>Node JS</Strong>, 
+              {" "}<Strong>Vue JS</Strong> for frontend and {" "}<Strong>Node JS</Strong>, 
               {" "}<Strong>Python(Django)</Strong> for backend
             </Paragraph>
             <Paragraph>
@@ -99,7 +99,7 @@ const About = () => {
               now <Strong>seeking an opportunity</Strong> to turn my passion
               into a career. I am actively seeking employment with a company that
               can offer me a chance to utilize my skills and make my dream of 
-              becoming a one of the top fullstack developers all across the globe a reality.
+              becoming a one of the top full-stack developers all across the globe a reality.
             </Paragraph>
           </ParagraphContainer>
           <ImageContainer ref={imageContainerEl}>
